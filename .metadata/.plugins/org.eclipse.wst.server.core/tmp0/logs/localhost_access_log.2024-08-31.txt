@@ -1,0 +1,7 @@
+127.0.0.1 - - [31/Aug/2024:12:11:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:12 +0530] "GET /Bavithran/WEB-INF/classes/com/event/dbconn.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:13 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:27 +0530] "GET /Bavithran/ HTTP/1.1" 200 7631
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:27 +0530] "GET /Bavithran/homestyle.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:27 +0530] "GET /Bavithran/Imagesindex.jpg HTTP/1.1" 404 780
+0:0:0:0:0:0:0:1 - - [31/Aug/2024:12:11:27 +0530] "GET /favicon.ico HTTP/1.1" 404 762

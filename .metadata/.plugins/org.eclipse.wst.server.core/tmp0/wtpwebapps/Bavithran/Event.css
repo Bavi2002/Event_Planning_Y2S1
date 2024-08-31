@@ -1,0 +1,75 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f5f5f5;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header h1 {
+	margin-top: 50px;
+	color: #333;
+}
+
+.event-details {
+	margin-top: 30px;
+	background-color: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+	text-align: left;
+}
+
+.detail {
+	margin-bottom: 20px; 
+}
+
+.label {
+	font-weight: bold;
+}
+
+.value {
+	margin-left: 10px;
+}
+
+.buttons {
+	margin-top: 20px;
+}
+
+.link-button {
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 5px;
+	margin-right: 10px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.link-button.edit {
+	background-color: #3F51B5;
+	color: #fff;
+}
+
+.link-button.delete {
+	background-color: #F44336;
+	color: #fff;
+}
+
+.link-button:hover {
+	opacity: 0.8;
+}
+
+.no-event {
+	margin-top: 30px;
+}
+
+.footer {
+	margin-top: 50px;
+	color: #777;
+}
